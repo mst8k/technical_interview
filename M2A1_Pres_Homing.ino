@@ -58,3 +58,7 @@ void M2A1_Pres_Homing() {
 
 // The hardware team estimates a 6-month lead time for a PCB redesign. Your task is to propose software-level workarounds
 //  to minimise data loss and ensure reliable operation with the current hardware. 
+  
+// Task
+
+// Propose 2–3 software-based mitigation strategies with code examples. 
